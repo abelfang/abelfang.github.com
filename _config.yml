@@ -1,0 +1,6 @@
+permalink: /:title
+
+title: 
+url:
+feed: /atom.xml
+author_info: <a href=""暂无</a>
